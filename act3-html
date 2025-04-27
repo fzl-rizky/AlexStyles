@@ -1,0 +1,8 @@
+<!-- Modal structure -->
+<div id="modal" class="modal hidden">
+    <div class="modal-content">
+        <span id="close-modal" class="close">&times;</span>
+        <h3>Project Title</h3>
+        <p>Detailed project description goes here.</p>
+    </div>
+</div>
